@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">лаб2_ресурсы</string>
+    <string name="portraitView">Вертикально</string>
+    <string name="landscapeView">Горизонтально</string>
+    <string name="textName">Соболевский Максим Вадимович</string>
+    <string name="textSpeciality">Мобильная разработка</string>
+    <string name="textGroup">9 группа</string>
+    <string name="textOrientation">неизвестная ориентация</string>
+</resources>
